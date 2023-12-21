@@ -1,4 +1,4 @@
-// Simulate Pomodoro history entries.
+// Simulate Pomodoro history entries...
 
 async function simulate(count) {
   function rand(lo, hi) {
